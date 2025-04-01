@@ -10,7 +10,7 @@
 
 Questions:
 
-    1.What is the gender breakdown of employees in the company?
+    - 1.What is the gender breakdown of employees in the company?
     
     2.What is the race/ethnicity breakdown of employees in the company?
     
@@ -49,7 +49,7 @@ Questions:
 - **Tenure by Department**: The average tenure across departments is around **8 years**, with **Legal** and **Auditing** having the longest tenure and **Sales**, **Services**, and **Marketing** having the shortest.
 
 ## Limitations:
-**Negative Ages**: Some records had negative ages and were excluded (967 records). Only ages 18 and above were considered.
+**Negative Ages:** Some records had negative ages and were excluded (967 records). Only ages 18 and above were considered.
 
 **Future Term Dates:** Some termination dates were far in the future and excluded from analysis (1599 records). Only dates up to the current date were used.
 
