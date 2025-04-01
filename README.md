@@ -2,15 +2,15 @@
 
 ![HR_Report_Data_Analysis](https://github.com/tanvirfau/HR-Employee-Report/blob/main/hr-employee-report.jpg)
 
-## Data - HR Data with over 22000 rows from the year 2000 to 2020.
+* Data - HR Data with over 22000 rows from the year 2000 to 2020.
 
-## Data Cleaning & Analysis - MySQL Workbench
+* Data Cleaning & Analysis - MySQL Workbench
+  
+* Data Visualization - PowerBI
 
-## Data Visualization - PowerBI
+## Questions:
 
-Questions:
-
-    - 1.What is the gender breakdown of employees in the company?
+    1.What is the gender breakdown of employees in the company?
     
     2.What is the race/ethnicity breakdown of employees in the company?
     
