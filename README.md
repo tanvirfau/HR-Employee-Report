@@ -1,10 +1,12 @@
-Data Used
+# HR Data Analysis Dashboard
 
-Data - HR Data with over 22000 rows from the year 2000 to 2020.
+![HR_Report_Data_Analysis](https://github.com/tanvirfau/HR-Employee-Report/blob/main/hr-employee-report.jpg)
 
-Data Cleaning & Analysis - MySQL Workbench
+## Data - HR Data with over 22000 rows from the year 2000 to 2020.
 
-Data Visualization - PowerBI
+## Data Cleaning & Analysis - MySQL Workbench
+
+## Data Visualization - PowerBI
 
 Questions:
 
@@ -31,7 +33,7 @@ Questions:
     11.What is the tenure distribution for each department?
     
 
-Summary of Findings:
+## Summary of Findings:
 
 There are more male employees White race is the most dominant while Native Hawaiian and American Indian are the least dominant.
 
