@@ -35,7 +35,7 @@ Questions:
 
 ## Summary of Findings:
 
-** Gender Breakdown: There are more male employees than female employees.
+**Gender Breakdown: There are more male employees than female employees.
 
 ** Race/Ethnicity: White employees are the most dominant, while Native Hawaiian and American Indian are the least dominant.
 
