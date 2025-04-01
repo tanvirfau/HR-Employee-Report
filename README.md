@@ -35,22 +35,29 @@ Questions:
 
 ## Summary of Findings:
 
-* Gender Breakdown: There are more male employees than female employees.
+** Gender Breakdown: There are more male employees than female employees.
 
-* Race/Ethnicity: White employees are the most dominant, while Native Hawaiian and American Indian are the least dominant.
+** Race/Ethnicity: White employees are the most dominant, while Native Hawaiian and American Indian are the least dominant.
 
-+ Age Distribution: The youngest employee is 20 years old, and the oldest is 57 years old. The data is divided into 5 age groups: 18-24, 25-34, 35-44, 45-54, 55-64. The largest group is 25-34, followed by 35-44, and the smallest is 55-64.
+** Age Distribution: The youngest employee is 20 years old, and the oldest is 57 years old. The data is divided into 5 age groups: 18-24, 25-34, 35-44, 45-54, 55-64. The largest group is 25-34, followed by 35-44, and the smallest is 55-64.
 
-+ Work Locations: A larger number of employees work at headquarters compared to remote locations.
+** Work Locations: A larger number of employees work at headquarters compared to remote locations.
 
-+ Employment Length: The average length of employment for terminated employees is around 7 years.
+** Employment Length: The average length of employment for terminated employees is around 7 years.
 
-* Gender Across Departments: Gender distribution is fairly balanced, but more males work across departments, especially in managerial and technical roles.
+** Gender Across Departments: Gender distribution is fairly balanced, but more males work across departments, especially in managerial and technical roles.
 
-* Turnover Rates: The Marketing department has the highest turnover rate, while Research and Development, Support, and Legal departments have the lowest.
+** Turnover Rates: The Marketing department has the highest turnover rate, while Research and Development, Support, and Legal departments have the lowest.
 
-* Location Distribution: The majority of employees are based in Ohio.
+** Location Distribution: The majority of employees are based in Ohio.
 
-* Employee Count: The company’s employee count has generally increased over the years, with more hires than terminations.
+** Employee Count: The company’s employee count has generally increased over the years, with more hires than terminations.
 
-* Tenure by Department: The average tenure across departments is around 8 years, with Legal and Auditing having the longest tenure and Sales, Services, and Marketing having the shortest.
+** Tenure by Department: The average tenure across departments is around 8 years, with Legal and Auditing having the longest tenure and Sales, Services, and Marketing having the shortest.
+
+## Limitations:
+** Negative Ages: Some records had negative ages and were excluded (967 records). Only ages 18 and above were considered.
+
+** Future Term Dates: Some termination dates were far in the future and excluded from analysis (1599 records). Only dates up to the current date were used.
+
+
