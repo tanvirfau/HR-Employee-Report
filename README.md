@@ -32,9 +32,6 @@
     
     11.What is the tenure distribution for each department?
     
-
-## Summary of Findings:
-
 ## Summary of Findings:
 
 - **Gender Breakdown**: There are more male employees than female employees.
